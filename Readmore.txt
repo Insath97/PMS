@@ -1,0 +1,7 @@
+Admin 
+username = ADM1625
+password = PWD6476
+
+user 
+username = EMP8493
+password = PWD8175
